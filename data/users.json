@@ -1,0 +1,15 @@
+{
+    "lockedUser":{
+        "username":"locked_out_user",
+        "password":"secret_sauce"
+    },
+    "validUser":{
+        "username":"standard_user",
+        "password":"secret_sauce"
+    },
+    "orderUser":{
+        "firstname":"Ram",
+        "lastname" :"Sahi",
+        "zip" :"12354"
+    }
+}
