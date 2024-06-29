@@ -1,0 +1,16 @@
+[
+  'Test.allTheThings() T-Shirt (Red)',
+  'Sauce Labs Onesie',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Bike Light',
+  'Sauce Labs Backpack'
+] [
+  'Test.allTheThings() T-Shirt (Red)',
+  'Sauce Labs Onesie',
+  'Sauce Labs Fleece Jacket',
+  'Sauce Labs Bolt T-Shirt',
+  'Sauce Labs Bike Light',
+  'Sauce Labs Backpack'
+]
+[ 15.99, 15.99, 29.99, 49.99, 7.99, 9.99 ] [ 7.99, 9.99, 15.99, 15.99, 29.99, 49.99 ]

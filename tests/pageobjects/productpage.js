@@ -37,10 +37,10 @@ export class ProductPage{
    }
 
    async checkDsc(initlalList,finalList){
-    expect(finalList).toEqual(expect.arrayContaining(initlalList.reverse()))
+    expect(finalList).toEqual(initlalList.reverse())
    }
 
    async checkAsc(initlalList,finalList){
-    expect(finalList).toEqual(expect.arrayContaining(initlalList.sort()))
+    expect(finalList).toEqual(initlalList.sort((a, b) => a - b))
    }
 }
