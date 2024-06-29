@@ -1,0 +1,5 @@
+export {LoginPage} from "./loginpage"
+export {ProductPage} from "./productpage"
+export {CartPage} from "./cartpage"
+export {InformationPage} from "./informationpage"
+export {OverviewPage} from "./overviewpage"
